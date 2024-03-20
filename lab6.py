@@ -1,3 +1,5 @@
+# Christopher Horhota
+
 def encode(password):
     new = []
     for i in password:
